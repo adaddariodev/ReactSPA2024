@@ -1,8 +1,27 @@
-# React + Vite
+# ReactSPA2024 - Recipe List 🍝
+Applicazione di ricette che consente di visualizzare e cercare ricette.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Funzionalità:
 
-Currently, two official plugins are available:
+Lista delle Ricette: Mostrare un elenco di ricette con titolo e breve descrizione.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ricerca: Cercare ricette per nome o ingrediente.
+
+Dettagli: Visualizzare i dettagli di una ricetta quando si fa clic su di essa.
+
+___________________________________________________________
+
+Features:
+
+Recipes List: Shows a list of recipes with a title and a short description.
+
+Search: Filters the recipes based on the name or ingredients.
+
+Details: Shows the details of a recipe when the user clicks on the element.
+
+___________________________________________________________
+
+Tecnologie / Tecnologies:
+- ⚛ React v18.3
+- ⚡ Vite v5.3
+- 🍃 Tailwind v3.4
